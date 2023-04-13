@@ -11,7 +11,6 @@ const {
  * using Node from extensions
  */
 class BinarySearchTree {
-
   constructor() {
     this.newroot = null;
   }
